@@ -1,4 +1,4 @@
----
+#NPM
 title: npm-config
 section: 1
 description: Manage the npm configuration files
